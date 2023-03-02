@@ -40,4 +40,6 @@ To get odds, one must give their own cards first, format being a string. In inst
 
 SKD7SAC6HT
 
-This application can calculate all odds. Note that the odds are against a single player, and are not absolutely perfect, but close enough.
+One is able to do this with only their hand cards (2) or with any amount of additional cards on the table (2 hand cards + 3-5 cards flipped on the table)
+
+This application can calculate all odds. Note that the odds are against a single player, and are not absolutely perfect, but close enough. Also the amount of computing needed for 2 hand cards and 3 table cards means, that it takes around half a minute to calculate.
