@@ -1,0 +1,2 @@
+GET     /todo                       controllers.CardOddsController.getAll
+GET     /getOdds/:cards                controllers.CardOddsController.getOdds(cards: String)
