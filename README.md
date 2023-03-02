@@ -38,7 +38,7 @@ To build and run the project:
 
 To get odds, one must give their own cards first, format being a string. In instance, if you have a spade king and a diamond seven, and the table has spade ace, club six and heart ten, the input string would be
 
-SKD7SAC6HT
+SKD7SAC6HT (url localhost:9000/getOdds/SKD7SAC6HT)
 
 One is able to do this with only their hand cards (2) or with any amount of additional cards on the table (2 hand cards + 3-5 cards flipped on the table)
 
